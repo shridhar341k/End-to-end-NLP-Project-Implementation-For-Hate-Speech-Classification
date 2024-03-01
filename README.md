@@ -1,5 +1,15 @@
 # End-to-end-NLP-Project-Implementation-For-Hate-Speech-Classification
 
+
+## Project Workflows
+
+- constants
+- config_enity
+- artifact_enity
+- components
+- pipeline
+- app.py
+
 ## How to run?
 
 ```bash
